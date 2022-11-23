@@ -18,15 +18,16 @@ Given the complexity of the Bridge2AI projects, it is critical to establish soft
 - Help the standardization of the AI-READI software to facilitate future reuse, i.e. make the AI-READI software Findable, Accessible, Interoperable, and Reusable (FAIR)
 - Ensure the efficient and effective development of software across the project, especially when contributions from several teams are required
 - Facilitate on-boarding of new developers to the project
+
 Our focus here is on establishing actionable best practices that can be directly implemented by developers of the project. These best practices are intended to remain general enough such that they can apply to any software development project within AI-READI.
 
-This repository is meant to share and maintain those best practices and its different versions. This repository is also meant collect feedback/suggestions (through the GitHub issues) such that we can improve our guidelines and/or align them with external teams (e.g., other teams part of the Bridge2AI consortium).
+This repository is meant to share and maintain those best practices and its different versions. This repository is also meant collect feedback/suggestions (through the GitHub issues) such that we can improve our guidelines and/or align them with external teams (e.g., other teams from the Bridge2AI consortium).
 
 ## Current version of the practices
 The latest version of the best practices are available [here]() in this repository. They can also be accesses through [Zenodo]() or viewed conveniently on [dev.aireadi.org](http://dev.aireadi.org).
 
 ## Repository structure
-Each version of the bets practices are stored in a dedicated folder under the `versions` folder. Each version include:
+Each version of the best practices are stored in a dedicated folder under the `versions` folder. Each version include:
 1. The best practices, provided in markdown format (one file per section of the best practices).
 2. The rationale behind the different elements of the best practices, provided in markdown format.
 3. The approach for monitoring the implementation of the best practices in the project.
@@ -42,7 +43,9 @@ A GitHub release is created for each new version of the best practices. The pdf 
 
 ## How to cite
 If you are following these best practices or reusing them for any purpose, please cite:
-
+```bash
+    ADD Citation here
+```
 
 ## Acknowledgement
-We acknowledge support from the NIH Bridge2AI program through grant 1OT2OD032644
+We acknowledge support from the NIH Bridge2AI program through grant 1OT2OD032644.
