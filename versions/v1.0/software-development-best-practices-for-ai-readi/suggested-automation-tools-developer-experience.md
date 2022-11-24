@@ -14,7 +14,7 @@ In this section, we provide suggestions of automated tools and approaches to ful
    * 7.4.1. Javascript:
      * 7.4.1.1. Unit/Integration - [Vitest](https://vitest.dev/)/[Jest](https://jestjs.io/)
      * 7.4.1.2. End-to-end - [Cypress](https://www.cypress.io/)
-   * Python:
+   * 7.4.2. Python:
      * 7.4.1.3. Unit/Integration - [pytest](https://docs.pytest.org/en/7.2.x/)
 * 7.5. Use [GitHub actions](https://github.com/features/actions) to automate tasks such as fixing grammatical errors, formatting code, managing GitHub issue submission, stale issues and PRs, run unit/integration or end-to-end tests, build and release app/api/documentation versions on GitHub and Zenodo. Include GitHub action workflows in a `.github/workflows` folder in your repository. Standard workflow files are maintained for the AI-READI project in the `github-workflows` repository and can be copied into your software repository. [Category: D] [Ref: 1]
 * 7.6. Use [TypeScript](https://www.typescriptlang.org/) for any web/Node.js applications instead of JavaScript where possible. TypeScript is a strongly typed programming language that extends JavaScript, for a better developer experience and more fault tolerant applications. [Category: D][ref: 1]
