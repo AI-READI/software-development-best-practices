@@ -1,6 +1,6 @@
 # 4. Documenting
 
-* 4.1. If more details are required to run the software from the source code in addition to what is included in the "README.md" (cf 1d.ii), include them in other markdown files and refer to them in the README. These other markdown files can be located in a "docs" folder at the root of the repository [Category: A, C] [Ref: 1]
+* 4.1. If more details are required to run the software from the source code in addition to what is included in the "README.md" (c.f. section 1.4.2), include them in other markdown files and refer to them in the README. These other markdown files can be located in a "docs" folder at the root of the repository [Category: A, C] [Ref: 1]
 * 4.2. If the software contains a user interface, maintain user documentation of the interface and identify in your README where the user documentation is located
    * 4.1.1. Use the [wiki of your GitHub repository](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) for simple software [Category: A, C] [Ref: 1]
    * 4.1.2. Build and maintain a dedicated webpage for the documentation for more complex software. Have a dedicated GitHub repository for your documentation code in this case and follow our best practices for that code as well. [Category: A, C] [Ref: 1]
