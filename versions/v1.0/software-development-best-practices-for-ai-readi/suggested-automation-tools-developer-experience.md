@@ -1,6 +1,6 @@
 # 7. Suggested automation tools/Developer experience
 
-In this section, we provide suggestions of automated tools and approaches to fullfill some of the items from section 1-6. These are purely suggestions and developers are free to follow other approaches as long as they fullfill all the items from section 1-6.
+In this section, we provide suggestions of automated tools and approaches to fullfill some of the items from sections 1-6. These are purely suggestions and developers are free to follow other approaches as long as they fullfill all the items from sections 1-6.
 
 * 7.1. Unless you have a preferred code editor, use [VS Code](https://code.visualstudio.com/) for developing your code and include the `.vscode` directory in your GitHub repository.
 * 7.2. Use these VS Code extensions (or their equivalent in your preferred code editor) as applicable to your project to automatically implement some elements of the best practices: [Category: D] [Ref: 1]
