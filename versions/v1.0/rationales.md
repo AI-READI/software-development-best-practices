@@ -1,4 +1,4 @@
-# Rationales
+# C. Rationales
 
 We provide below the rationales behind the design of our best practices.
 
