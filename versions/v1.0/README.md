@@ -2,7 +2,7 @@
 
 ## pdf version
 
-[v.1.0.0.pdf](v.1.0.0.pdf)
+[v1.0.0.pdf](v1.0.0.pdf)
 
 ## Markdown version
 * A. Software development best practices for AI-READI
