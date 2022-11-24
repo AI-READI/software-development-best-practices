@@ -58,12 +58,14 @@ Each version of the best practices are stored in a dedicated folder under the `v
 3. The approach for monitoring the implementation of the best practices in the project.
 4. A pdf file combining all of the above.
 
-Changes between the different versions are tracked in the [CHANGELOG](https://github.com/fairdataihub/FAIR-BioRS-guidelines/blob/main/CHANGELOG.md) file. 
+Changes between the different versions are tracked in the [CHANGELOG](https://github.com/fairdataihub/FAIR-BioRS-guidelines/blob/main/CHANGELOG.md) file. A `main` folder contain the latest version of the best practices. Pull requests with suggestions should be made from that folder.
 
 ## Feedback and suggestions
-Use the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions. Suggestions will be reviewed and approved by the AI-READI Tools module PIs (with inclusion of other team members as deemed necessary) if deemed adequate. 
+Use the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions by making changes to the files in the `main` folder. Only edit the markdown files (the pdf files will be created by the approvers of the suggested changes). Suggestions will be reviewed and approved by the AI-READI Tools module PIs (with inclusion of other team members as deemed necessary) if deemed adequate. 
 
 ## New version release process
+When changes are approved to the `main` folder, a copy with a new version number will be added to the `versions` folder.
+
 A GitHub release is created for each new version of the best practices. The pdf version of the best practice document is archived on Zenodo with each release such that each version of the best practices can be referenced with a unique digital object identifier (DOI). Additionally, the latest version of best practices will be visible on [dev.aireadi.org](http://dev.aireadi.org), the developer documentation website for the AI-READI project. This documentation will display the best practices in a user-friendly manner and will contain additional elements (e.g., code snippets) such that the best practices can be easily implemented by developers.
 
 ## License
