@@ -6,7 +6,7 @@
 
 ## Markdown version
 * A. Software development best practices for AI-READI
-  * [Overview and ressources](software-development-best-practices-for-ai-readi/overview-and-resources.md)
+  * [Overview and resources](software-development-best-practices-for-ai-readi/overview-and-resources.md)
   * 0\. [Prior to development](software-development-best-practices-for-ai-readi/prior-to-development.md)
   * 1\. [Project setup](software-development-best-practices-for-ai-readi/project-setup.md)
   * 2\. [Code development](software-development-best-practices-for-ai-readi/code-development.md)
