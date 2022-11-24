@@ -11,7 +11,38 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# Software Development Best Practices of the AI-READI Project
+<!-- HEADER -->
+<br />
+<p align="center">
+
+  <h1 align="center"> Software Development Best Practices of the AI-READI Project </h1>
+  <h3 align="center"> View the latest version of the best practices: </h3>
+  <p align="center">
+    <a href="https://dev.aireadi.org"><strong> :globe_with_meridians: On our development website » </strong></a>
+    <br />
+    <a href="https://github.com/AI-READI/software-dev-best-practices/versions"><strong> :file_folder: In this repository »</strong></a>
+    <br />
+    <a href="https://zenodo.org"><strong> :cloud: On Zenodo » </strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/AI-READI/software-dev-best-practices/issues/new">:warning: Report Issue or make suggestions</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [About](#about)
+- [Repository structure](#repository-structure)
+- [Feedback and suggestions](#feedback-and-suggestions)
+- [New version release process](#new-version-release-process)
+- [License](#license)
+- [How to cite](#how-to-cite)
+- [Acknowledgement](#acknowledgement)
+
+
+# 
 
 ## About
 This repository is meant to share and maintain the software development best practices of the AI-READI project. The rationales for establishing these best practices are to:
@@ -23,9 +54,6 @@ Our focus here is on establishing actionable best practices that can be directly
 
 This repository is also meant to collect feedback/suggestions (through the GitHub issues) such that we can improve our guidelines and/or align them with external teams (e.g., other teams from the Bridge2AI consortium).
 
-## Current version of the practices
-The latest version of the best practices are available [here]() in this repository. They can also be accesses through [Zenodo]() or viewed conveniently on [dev.aireadi.org](http://dev.aireadi.org).
-
 ## Repository structure
 Each version of the best practices are stored in a dedicated folder under the `versions` folder. Each version include:
 1. The best practices, provided in markdown format (one file per section of the best practices).
@@ -35,17 +63,12 @@ Each version of the best practices are stored in a dedicated folder under the `v
 
 Changes between the different versions are tracked in the [CHANGELOG](https://github.com/fairdataihub/FAIR-BioRS-guidelines/blob/main/CHANGELOG.md) file. 
 
-## Feedback and contribution
-Use the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions. Suggestions will be reviewed and approved by the AI-READI Tools module PIs (with inclusion of other team members as deemed necessary). 
+## Feedback and suggestions
+Use the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions. Suggestions will be reviewed and approved by the AI-READI Tools module PIs (with inclusion of other team members as deemed necessary) if deemed adequate. 
 
-## Version release
+## New version release process
 A GitHub release is created for each new version of the best practices. The pdf version of the best practice document is archived on Zenodo with each release such that each version of the best practices can be referenced with a unique digital object identifier (DOI). Additionally, the latest version of best practices will be visible on [dev.aireadi.org](http://dev.aireadi.org), the developer documentation website for the AI-READI project. This documentation will display the best practices in a user-friendly manner and will contain additional elements (e.g., code snippets) such that the best practices can be easily implemented by developers.
 
-## How to cite
-If you are following these best practices or reusing them for any purpose, please cite:
-```bash
-    ADD Citation here
-```
 ## License
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
@@ -55,5 +78,22 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
+
+## How to cite
+If you are following these best practices or reusing them for any purpose, please cite:
+```bash
+    ADD Citation here
+```
+
 ## Acknowledgement
 We acknowledge support from the NIH Bridge2AI program through grant 1OT2OD032644.
+
+<p align="center">
+  <br/>
+  <br/>
+  <br/>
+  <a href="#">
+    <img src="https://github.com/AI-READI/AI-READI-logo/blob/main/logo/png/option2.png" alt="Logo" width="300">
+  </a>
+</p>  
+  
