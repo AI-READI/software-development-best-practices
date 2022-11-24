@@ -13,4 +13,4 @@
 
 * B. [Rationales](rationales.md)
 
-* C. [Monitoring compliance with the best practices](rationales.md)
+* C. [Monitoring compliance with the best practices](monitoring-compliance-with-the-best-practices.md)
