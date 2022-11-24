@@ -47,7 +47,7 @@ If you are following these best practices or reusing them for any purpose, pleas
     ADD Citation here
 ```
 ## License
-his work is licensed under a
+This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
