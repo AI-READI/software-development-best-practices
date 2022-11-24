@@ -41,9 +41,6 @@
 - [How to cite](#how-to-cite)
 - [Acknowledgement](#acknowledgement)
 
-
-# 
-
 ## About
 This repository is meant to share and maintain the software development best practices of the AI-READI project. The rationales for establishing these best practices are to:
 - Help the standardization of the AI-READI software to facilitate future reuse, i.e. make the AI-READI software Findable, Accessible, Interoperable, and Reusable (FAIR)
