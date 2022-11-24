@@ -6,7 +6,7 @@
 * 1.3. Make the GitHub repository public from day 1 [Category: B] [1, 7]
 
 * 1.4. Choose a license and include a `LICENSE` file containing standard license terms in the root of your GitHub repository [Category: A, C] [Ref: 2-4, 7]
-   * i. All software in the AI-READI project will be developed under the [MIT license](https://opensource.org/licenses/MIT) (unless exceptions) [Category: B] [Ref: 1]
+   * 1.4.1. All software in the AI-READI project will be developed under the [MIT license](https://opensource.org/licenses/MIT) (unless exceptions) [Category: B] [Ref: 1]
 
 * 1.5. Add a `README.md` file in the root of your GitHub repository and include at least the following information as they become available [Category: A, C] [Ref: 2, 4, 6]:
    * 1.5.1. Brief description of the software [Ref: 2, 4, 6, 7,10-12]
