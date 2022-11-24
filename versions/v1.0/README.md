@@ -1,5 +1,10 @@
 # Table of content
 
+## pdf version
+
+[v.1.0.0.pdf](v.1.0.0.pdf)
+
+## Markdown version
 * A. Software development best practices for AI-READI
   * [Overview and ressources](software-development-best-practices-for-ai-readi/overview-and-resources.md)
   * 0\. [Prior to development](software-development-best-practices-for-ai-readi/prior-to-development.md)
