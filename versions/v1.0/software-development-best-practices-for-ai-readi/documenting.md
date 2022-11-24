@@ -1,4 +1,4 @@
-# Documenting
+# 4. Documenting
 
 * a. If more details are required to run the software from the source code in addition to what is included in the "README.md" (cf 1d.ii), include them in other markdown files and refer to them in the README. These other markdown files can be located in a "docs" folder at the root of the repository [Category: A, C] [Ref: 1]
 * b. If the software contains a user interface, maintain user documentation of the interface and identify in your README where the user documentation is located
