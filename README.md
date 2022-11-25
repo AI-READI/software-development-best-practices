@@ -49,19 +49,19 @@ This repository is meant to share and maintain the software development best pra
 
 Our focus here is on establishing actionable best practices that can be directly implemented by developers of the project. These best practices are intended to remain general enough such that they can apply to any software development project within AI-READI.
 
-This repository is also meant to collect feedback/suggestions (through the GitHub issues) such that we can improve our guidelines and/or align them with external teams (e.g., other teams from the Bridge2AI consortium).
+This repository is also meant to collect feedback/suggestions (through the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues/new)) such that we can improve our guidelines and/or align them with external teams (e.g., other teams from the Bridge2AI consortium).
 
 ## Repository structure
 Each version of the best practices are stored in a dedicated folder under the `versions` folder. Each version include:
 1. The best practices, provided in markdown format (one file per section of the best practices).
 2. The rationale behind the different elements of the best practices, provided in markdown format.
-3. The approach for monitoring the implementation of the best practices in the project.
+3. The approach for monitoring the implementation of the best practices in the project, provided in markdown format.
 4. A pdf file combining all of the above.
 
 Changes between the different versions are tracked in the [CHANGELOG](https://github.com/fairdataihub/FAIR-BioRS-guidelines/blob/main/CHANGELOG.md) file. A `main` folder contain the latest version of the best practices. Pull requests with suggestions should be made from that folder.
 
 ## Feedback and suggestions
-Use the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions by making changes to the files in the `main` folder. Only edit the markdown files (the pdf files will be created by the approvers of the suggested changes). Suggestions will be reviewed and approved by the AI-READI Tools module PIs (with inclusion of other team members as deemed necessary) if deemed adequate. 
+Use the [GitHub issues](https://github.com/AI-READI/software-dev-best-practices/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions by making changes to the files in the `main` folder. Only edit the markdown files (the pdf files will be created by the approvers of the suggested changes). Suggestions will be reviewed and, if deemed adequate, approved by the AI-READI Tools module PIs (with inclusion of other team members as necessary). 
 
 ## New version release process
 When changes are approved to the `main` folder, a copy with a new version number will be added to the `versions` folder.
