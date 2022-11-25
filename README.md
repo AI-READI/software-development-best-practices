@@ -1,7 +1,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![CC BY 4.0][cc-by-shield]][cc-by]
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7363102.svg)](https://doi.org/10.5281/zenodo.7363102)
 
 [stars-shield]: https://img.shields.io/github/stars/AI-READI/software-dev-best-practices.svg?style=flat-square
 [stars-url]: https://github.com/AI-READI/software-dev-best-practices/stargazers
@@ -22,7 +22,7 @@
     <br />
     <a href="https://github.com/AI-READI/software-dev-best-practices/versions"><strong> :file_folder: In this repository »</strong></a>
     <br />
-    <a href="https://zenodo.org"><strong> :cloud: On Zenodo » </strong></a>
+    <a href="https://doi.org/10.5281/zenodo.7363102"><strong> :cloud: On Zenodo » </strong></a>
     <br />
     <br />
     <a href="https://github.com/AI-READI/software-dev-best-practices/issues/new">:warning: Report Issue or make suggestions</a>
