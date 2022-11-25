@@ -1,6 +1,6 @@
 # Table of content
 
-## pdf version
+## PDF version
 
 [v1.0.0.pdf](v1.0.0.pdf)
 
