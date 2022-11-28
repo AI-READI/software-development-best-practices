@@ -16,10 +16,10 @@ FAIR is not equal to Open: the “A” in FAIR stands for “Accessible under we
 
 ## 3. Facilitate collaborations and inclusivity
 
-Since we expect software to typically involve multiple developers and stakeholders/communities, our best practices include elements to facilitate collaborations. These elements are based on the AI-READI team members' knowledge and experience, as well as relevant literature such as the “General guidelines for biomedical software development”, “Good enough practices in scientific computing”, aspects of the CARE principles (which are relevant not only to data but also software), published studies on community engagement in software development etc. 
+Since we expect software to typically involve multiple developers and stakeholders/communities, our best practices include elements to facilitate collaborations. These elements are based on the AI-READI team members' knowledge and experience, as well as relevant literature such as the “General guidelines for biomedical software development”, “Good enough practices in scientific computing”, and aspects of the CARE principles (which are relevant not only to data but also software), published studies on community engagement in software development, etc. 
 
 
 
 ## 4. Provide convenience to developers
 
-We recognize that implementing some of the elements suggested in our best practices could be time-consuming for developers. Our best practices thus include elements for developers to conveniently and efficiently implement these elements. These elements are based mainly on the AI-READI team members' knowledge and experience. For example, wherever possible, boilerplate and partially completed template files will be provided for configuration, documentation, meta-data and other support files to decrease the time and effort necessary to meet these requirements.
+We recognize that implementing some of the elements suggested in our best practices could be time-consuming for developers. Our best practices thus include elements for developers to conveniently and efficiently implement these elements. These elements are based mainly on the AI-READI team members' knowledge and experience. For example, wherever possible, boilerplate and partially completed template files will be provided for configuration, documentation, meta-data, and other support files to decrease the time and effort necessary to meet these requirements.
