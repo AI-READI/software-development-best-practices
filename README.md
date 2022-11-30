@@ -1,19 +1,8 @@
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![CC BY 4.0][cc-by-shield]][cc-by]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7363101.svg)](https://doi.org/10.5281/zenodo.7363101)
-
-[stars-shield]: https://img.shields.io/github/stars/AI-READI/software-development-best-practices.svg?style=flat-square
-[stars-url]: https://github.com/AI-READI/software-development-best-practices/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AI-READI/software-development-best-practices.svg?style=flat-square
-[issues-url]: https://github.com/fairdataihub/AI-READI/software-development-best-practices/issues
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
+<div align="center">
 <!-- HEADER -->
 <br />
-<p align="center">
+
+<p>
 
   <h1 align="center"> Software Development Best Practices of the AI-READI Project </h1>
   <h3 align="center"> View the latest version of the best practices: </h3>
@@ -29,6 +18,23 @@
   </p>
 </p>
 
+<br />
+
+  <p>
+    <a href="https://github.com/AI-READI/software-development-best-practices/stargazers">
+      <img src="https://img.shields.io/github/stars/AI-READI/software-development-best-practices.svg?style=flat-square" alt="stars" />
+    </a>
+    <a href="https://github.com/AI-READI/software-development-best-practices/issues/">
+      <img src="https://img.shields.io/github/issues/AI-READI/software-development-best-practices.svg?style=flat-square" alt="open issues" />
+    </a>
+    <a href="https://github.com/AI-READI/software-development-best-practices/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/AI-READI/software-development-best-practices.svg?style=flat-square" alt="license" />
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.7363101">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7363101.svg" alt="doi" />
+    </a>
+  </p>
+</div>
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -70,7 +76,7 @@ A GitHub release is created for each new version of the best practices. The pdf 
 
 ## License
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License][cc-by]. See [LICENSE](https://github.com/AI-READI/software-development-best-practices/blob/main/LICENSE) for more information.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -81,18 +87,24 @@ This work is licensed under a
 ## How to cite
 If you are following these best practices or reusing them for any purpose, please cite:
 ```bash
-    ADD Citation here
+Patel, Bhavesh, Soundarajan, Sanjay, McWeeney, Shannon, Cordier, Benjamin A., & Benton, Erik S. (2022). 
+Software Development Best Practices of the AI-READI Project (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7363102
 ```
 
 ## Acknowledgement
-We acknowledge support from the NIH Bridge2AI program through grant 1OT2OD032644.
+This project is funded by the NIH under award number 1OT2OD032644. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
 
-<p align="center">
-  <br/>
-  <br/>
-  <br/>
-  <a href="#">
-    <img src="https://github.com/AI-READI/AI-READI-logo/blob/main/logo/png/option2.png" alt="Logo" width="300">
-  </a>
-</p>  
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+<a href="https://aireadi.org">
+  <img src="https://github.com/AI-READI/AI-READI-logo/raw/main/logo/png/option2.png" height="200" />
+</a>
+
+</div>
   
