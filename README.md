@@ -1,12 +1,12 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![CC BY 4.0][cc-by-shield]][cc-by]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7363102.svg)](https://doi.org/10.5281/zenodo.7363102)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7363101.svg)](https://doi.org/10.5281/zenodo.7363101)
 
-[stars-shield]: https://img.shields.io/github/stars/AI-READI/software-dev-best-practices.svg?style=flat-square
-[stars-url]: https://github.com/AI-READI/software-dev-best-practices/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AI-READI/software-dev-best-practices.svg?style=flat-square
-[issues-url]: https://github.com/fairdataihub/AI-READI/software-dev-best-practices/issues
+[stars-shield]: https://img.shields.io/github/stars/AI-READI/software-development-best-practices.svg?style=flat-square
+[stars-url]: https://github.com/AI-READI/software-development-best-practices/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AI-READI/software-development-best-practices.svg?style=flat-square
+[issues-url]: https://github.com/fairdataihub/AI-READI/software-development-best-practices/issues
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
@@ -20,12 +20,12 @@
   <p align="center">
     <a href="https://dev.aireadi.org"><strong> :globe_with_meridians: On our development website » </strong></a>
     <br />
-    <a href="https://github.com/AI-READI/software-dev-best-practices/versions"><strong> :file_folder: In this repository »</strong></a>
+    <a href="https://github.com/AI-READI/software-development-best-practices/tree/main/versions"><strong> :file_folder: In this repository »</strong></a>
     <br />
-    <a href="https://doi.org/10.5281/zenodo.7363102"><strong> :cloud: On Zenodo » </strong></a>
+    <a href="https://doi.org/10.5281/zenodo.7363101"><strong> :cloud: On Zenodo » </strong></a>
     <br />
     <br />
-    <a href="https://github.com/AI-READI/software-dev-best-practices/issues/new">:warning: Report Issue or make suggestions</a>
+    <a href="https://github.com/AI-READI/software-development-best-practices/issues/new">:warning: Report Issue or make suggestions</a>
   </p>
 </p>
 
