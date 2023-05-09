@@ -1,7 +1,7 @@
 # 2. Code development
 
 * 2.1. Follow language-specific standards and conventions when writing your code [Category: A, C] [Ref: 1, 2, 10-12]
-   * 2.1.1. Python: [Python Developer's Guide](https://devguide.python.org/)
+   * 2.1.1. Python: [PEP 8 Style Guide for Python Code](https://peps.python.org/pep-0008/)
    * 2.1.2. R: [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
    * 2.1.3. Java: [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * 2.2. Use an appropriate linter for automated code quality improvements and formatting fixes (c.f. section 7)
